@@ -8976,6 +8976,11 @@ react-error-overlay@^6.0.9:
   resolved "https://registry.nlark.com/react-error-overlay/download/react-error-overlay-6.0.9.tgz#3c743010c9359608c375ecd6bc76f35d93995b0a"
   integrity sha1-PHQwEMk1lgjDdezWvHbzXZOZWwo=
 
+react-hook-form@^7.9.0:
+  version "7.9.0"
+  resolved "https://registry.nlark.com/react-hook-form/download/react-hook-form-7.9.0.tgz#0b5ed2f262a1e3cc64cfcf855f09a6e236d46ac3"
+  integrity sha1-C17S8mKh48xkz8+FXwmm4jbUasM=
+
 react-is@^16.8.1:
   version "16.13.1"
   resolved "https://registry.nlark.com/react-is/download/react-is-16.13.1.tgz?cache=0&sync_timestamp=1624638024672&other_urls=https%3A%2F%2Fregistry.nlark.com%2Freact-is%2Fdownload%2Freact-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
